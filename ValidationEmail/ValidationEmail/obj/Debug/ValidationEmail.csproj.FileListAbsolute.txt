@@ -1,0 +1,8 @@
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\ValidationEmail\ValidationEmail\bin\Debug\ValidationEmail.exe.config
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\ValidationEmail\ValidationEmail\bin\Debug\ValidationEmail.exe
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\ValidationEmail\ValidationEmail\bin\Debug\ValidationEmail.pdb
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\ValidationEmail\ValidationEmail\obj\Debug\ValidationEmail.csproj.AssemblyReference.cache
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\ValidationEmail\ValidationEmail\obj\Debug\ValidationEmail.csproj.SuggestedBindingRedirects.cache
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\ValidationEmail\ValidationEmail\obj\Debug\ValidationEmail.csproj.CoreCompileInputs.cache
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\ValidationEmail\ValidationEmail\obj\Debug\ValidationEmail.exe
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\ValidationEmail\ValidationEmail\obj\Debug\ValidationEmail.pdb
