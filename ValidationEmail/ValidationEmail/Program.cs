@@ -10,9 +10,9 @@ namespace ValidationEmail
     {
         static void Main(string[] args)
         {
-            ValidationEmail("ettarak.zouhair");
-            ValidationEmail("ettarak.zouhair@gmail.com");
-            ValidationEmail("155-45@gmail.com");
+            ValidationEmail("ettarak.zouhair"); // false
+            ValidationEmail("ettarak.zouhair@gmail.com"); // true
+            ValidationEmail("155-45@gmail.com"); // false
 
             Console.ReadKey();
         }
