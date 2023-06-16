@@ -1,0 +1,8 @@
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\BreakDownURL\BreakDownURL\bin\Debug\BreakDownURL.exe.config
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\BreakDownURL\BreakDownURL\bin\Debug\BreakDownURL.exe
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\BreakDownURL\BreakDownURL\bin\Debug\BreakDownURL.pdb
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\BreakDownURL\BreakDownURL\obj\Debug\BreakDownURL.csproj.AssemblyReference.cache
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\BreakDownURL\BreakDownURL\obj\Debug\BreakDownURL.csproj.SuggestedBindingRedirects.cache
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\BreakDownURL\BreakDownURL\obj\Debug\BreakDownURL.csproj.CoreCompileInputs.cache
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\BreakDownURL\BreakDownURL\obj\Debug\BreakDownURL.exe
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\BreakDownURL\BreakDownURL\obj\Debug\BreakDownURL.pdb
