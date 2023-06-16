@@ -1,0 +1,8 @@
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\HigherLowerAverageValue\HigherLowerAverageValue\obj\Debug\HigherLowerAverageValue.csproj.AssemblyReference.cache
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\HigherLowerAverageValue\HigherLowerAverageValue\obj\Debug\HigherLowerAverageValue.csproj.SuggestedBindingRedirects.cache
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\HigherLowerAverageValue\HigherLowerAverageValue\obj\Debug\HigherLowerAverageValue.csproj.CoreCompileInputs.cache
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\HigherLowerAverageValue\HigherLowerAverageValue\bin\Debug\HigherLowerAverageValue.exe.config
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\HigherLowerAverageValue\HigherLowerAverageValue\bin\Debug\HigherLowerAverageValue.exe
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\HigherLowerAverageValue\HigherLowerAverageValue\bin\Debug\HigherLowerAverageValue.pdb
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\HigherLowerAverageValue\HigherLowerAverageValue\obj\Debug\HigherLowerAverageValue.exe
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\HigherLowerAverageValue\HigherLowerAverageValue\obj\Debug\HigherLowerAverageValue.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HigherLowerAverageValue", "HigherLowerAverageValue\HigherLowerAverageValue.csproj", "{AE01A812-E2B2-47E6-A5F3-E53BE274C904}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE01A812-E2B2-47E6-A5F3-E53BE274C904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE01A812-E2B2-47E6-A5F3-E53BE274C904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE01A812-E2B2-47E6-A5F3-E53BE274C904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE01A812-E2B2-47E6-A5F3-E53BE274C904}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90058ED1-E88D-4161-BFFC-AF81ECEB8454}
+	EndGlobalSection
+EndGlobal
