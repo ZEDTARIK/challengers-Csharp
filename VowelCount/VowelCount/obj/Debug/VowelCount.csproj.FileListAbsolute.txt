@@ -1,0 +1,8 @@
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\VowelCount\VowelCount\bin\Debug\VowelCount.exe.config
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\VowelCount\VowelCount\bin\Debug\VowelCount.exe
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\VowelCount\VowelCount\bin\Debug\VowelCount.pdb
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\VowelCount\VowelCount\obj\Debug\VowelCount.csproj.AssemblyReference.cache
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\VowelCount\VowelCount\obj\Debug\VowelCount.csproj.SuggestedBindingRedirects.cache
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\VowelCount\VowelCount\obj\Debug\VowelCount.csproj.CoreCompileInputs.cache
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\VowelCount\VowelCount\obj\Debug\VowelCount.exe
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\VowelCount\VowelCount\obj\Debug\VowelCount.pdb
