@@ -1,0 +1,8 @@
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\CalculateTip\CalculateTip\bin\Debug\CalculateTip.exe.config
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\CalculateTip\CalculateTip\bin\Debug\CalculateTip.exe
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\CalculateTip\CalculateTip\bin\Debug\CalculateTip.pdb
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\CalculateTip\CalculateTip\obj\Debug\CalculateTip.csproj.AssemblyReference.cache
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\CalculateTip\CalculateTip\obj\Debug\CalculateTip.csproj.SuggestedBindingRedirects.cache
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\CalculateTip\CalculateTip\obj\Debug\CalculateTip.csproj.CoreCompileInputs.cache
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\CalculateTip\CalculateTip\obj\Debug\CalculateTip.exe
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\CalculateTip\CalculateTip\obj\Debug\CalculateTip.pdb

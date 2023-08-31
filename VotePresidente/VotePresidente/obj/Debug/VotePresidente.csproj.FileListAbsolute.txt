@@ -1,0 +1,8 @@
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\VotePresidente\VotePresidente\bin\Debug\VotePresidente.exe.config
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\VotePresidente\VotePresidente\bin\Debug\VotePresidente.exe
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\VotePresidente\VotePresidente\bin\Debug\VotePresidente.pdb
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\VotePresidente\VotePresidente\obj\Debug\VotePresidente.csproj.AssemblyReference.cache
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\VotePresidente\VotePresidente\obj\Debug\VotePresidente.csproj.SuggestedBindingRedirects.cache
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\VotePresidente\VotePresidente\obj\Debug\VotePresidente.csproj.CoreCompileInputs.cache
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\VotePresidente\VotePresidente\obj\Debug\VotePresidente.exe
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\VotePresidente\VotePresidente\obj\Debug\VotePresidente.pdb
