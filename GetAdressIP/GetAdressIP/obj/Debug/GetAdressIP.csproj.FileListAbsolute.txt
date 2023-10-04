@@ -1,0 +1,8 @@
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\GetAdressIP\GetAdressIP\bin\Debug\GetAdressIP.exe.config
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\GetAdressIP\GetAdressIP\bin\Debug\GetAdressIP.exe
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\GetAdressIP\GetAdressIP\bin\Debug\GetAdressIP.pdb
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\GetAdressIP\GetAdressIP\obj\Debug\GetAdressIP.csproj.AssemblyReference.cache
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\GetAdressIP\GetAdressIP\obj\Debug\GetAdressIP.csproj.SuggestedBindingRedirects.cache
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\GetAdressIP\GetAdressIP\obj\Debug\GetAdressIP.csproj.CoreCompileInputs.cache
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\GetAdressIP\GetAdressIP\obj\Debug\GetAdressIP.exe
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\GetAdressIP\GetAdressIP\obj\Debug\GetAdressIP.pdb
