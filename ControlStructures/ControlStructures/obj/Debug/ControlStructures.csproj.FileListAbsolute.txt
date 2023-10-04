@@ -1,0 +1,8 @@
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\ControlStructures\ControlStructures\bin\Debug\ControlStructures.exe.config
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\ControlStructures\ControlStructures\bin\Debug\ControlStructures.exe
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\ControlStructures\ControlStructures\bin\Debug\ControlStructures.pdb
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\ControlStructures\ControlStructures\obj\Debug\ControlStructures.csproj.AssemblyReference.cache
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\ControlStructures\ControlStructures\obj\Debug\ControlStructures.csproj.SuggestedBindingRedirects.cache
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\ControlStructures\ControlStructures\obj\Debug\ControlStructures.csproj.CoreCompileInputs.cache
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\ControlStructures\ControlStructures\obj\Debug\ControlStructures.exe
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\ControlStructures\ControlStructures\obj\Debug\ControlStructures.pdb
