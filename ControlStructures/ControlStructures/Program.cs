@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -22,6 +23,18 @@ namespace ControlStructures
     {
         static void Main(string[] args)
         {
+            // est une classe de collection non générique
+            ArrayList arrayList = new ArrayList();
+            arrayList.Add(1);
+            arrayList.Add(2);
+            arrayList.Add(true);
+
+            // est une classe de collection  générique
+            List<int> ints = new List<int>();
+            ints.Add(1);
+            ints.Add(2);
+            ints.Add(3);
+
 
             // Récupérer la date et l'heure actuelle 
             DateTime dt = DateTime.Now;
