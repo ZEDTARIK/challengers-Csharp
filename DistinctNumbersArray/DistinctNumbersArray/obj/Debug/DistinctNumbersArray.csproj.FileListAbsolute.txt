@@ -1,0 +1,8 @@
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\DistinctNumbersArray\DistinctNumbersArray\bin\Debug\DistinctNumbersArray.exe.config
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\DistinctNumbersArray\DistinctNumbersArray\bin\Debug\DistinctNumbersArray.exe
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\DistinctNumbersArray\DistinctNumbersArray\bin\Debug\DistinctNumbersArray.pdb
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\DistinctNumbersArray\DistinctNumbersArray\obj\Debug\DistinctNumbersArray.csproj.AssemblyReference.cache
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\DistinctNumbersArray\DistinctNumbersArray\obj\Debug\DistinctNumbersArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\DistinctNumbersArray\DistinctNumbersArray\obj\Debug\DistinctNumbersArray.csproj.CoreCompileInputs.cache
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\DistinctNumbersArray\DistinctNumbersArray\obj\Debug\DistinctNumbersArray.exe
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\DistinctNumbersArray\DistinctNumbersArray\obj\Debug\DistinctNumbersArray.pdb
