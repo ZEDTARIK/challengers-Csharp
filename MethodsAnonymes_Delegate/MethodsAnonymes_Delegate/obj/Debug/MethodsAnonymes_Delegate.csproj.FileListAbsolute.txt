@@ -1,0 +1,8 @@
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\MethodsAnonymes_Delegate\MethodsAnonymes_Delegate\bin\Debug\MethodsAnonymes_Delegate.exe.config
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\MethodsAnonymes_Delegate\MethodsAnonymes_Delegate\bin\Debug\MethodsAnonymes_Delegate.exe
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\MethodsAnonymes_Delegate\MethodsAnonymes_Delegate\bin\Debug\MethodsAnonymes_Delegate.pdb
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\MethodsAnonymes_Delegate\MethodsAnonymes_Delegate\obj\Debug\MethodsAnonymes_Delegate.csproj.AssemblyReference.cache
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\MethodsAnonymes_Delegate\MethodsAnonymes_Delegate\obj\Debug\MethodsAnonymes_Delegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\MethodsAnonymes_Delegate\MethodsAnonymes_Delegate\obj\Debug\MethodsAnonymes_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\MethodsAnonymes_Delegate\MethodsAnonymes_Delegate\obj\Debug\MethodsAnonymes_Delegate.exe
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\Challengers\MethodsAnonymes_Delegate\MethodsAnonymes_Delegate\obj\Debug\MethodsAnonymes_Delegate.pdb
